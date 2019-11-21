@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Ready to drop in and use package with Libs and Utilties for using SQLite in Unity</br>
+> SQLite Package for Unity</br>
 
 ## Quick Package Install
 
