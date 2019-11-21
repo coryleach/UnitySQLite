@@ -6,7 +6,9 @@
   </a>
 </p>
 
-> SQLite Libaray and Utilties for Unity
+> SQLite Libaray and Utilties for Unity </br>
+> Built off of <a href="https://github.com/robertohuertasm/SQLite4Unity3d">robertohuertasm/SQLite4Unity3d</a></br>
+> Which is built off of <a href="https://github.com/praeclarum/sqlite-net">praeclarum/sqlite-net</a>
 
 ## Install
 
