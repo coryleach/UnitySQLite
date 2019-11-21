@@ -8,7 +8,7 @@
 
 > Ready to drop in and use package with Libs and Utilties for using SQLite in Unity</br>
 
-## Install
+## Quick Package Install
 
 #### Using UnityPackageManager (for Unity 2019.1 or later)
 
