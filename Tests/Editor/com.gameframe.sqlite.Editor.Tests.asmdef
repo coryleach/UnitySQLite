@@ -1,0 +1,1 @@
+{ "name": "com.gameframe.sqlite.Editor.Tests", "references": [ "com.gameframe.sqlite" ], "optionalUnityReferences": ["TestAssemblies"], "includePlatforms": [ "Editor" ], "excludePlatforms": [] }
