@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Simple Pooling Library for use in Unity
+> SQLite Libaray and Utilties for Unity
 
 ## Install
 
