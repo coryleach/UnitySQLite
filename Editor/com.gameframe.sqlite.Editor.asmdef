@@ -1,1 +1,0 @@
-{ "name": "com.gameframe.sqlite.Editor", "references": [ "com.gameframe.sqlite" ], "optionalUnityReferences": [], "includePlatforms": [ "Editor" ], "excludePlatforms": [] }
