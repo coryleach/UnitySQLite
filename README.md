@@ -25,7 +25,6 @@ Find the manifest.json file in the Packages folder of your project and edit it t
 ## Usage
 
 ```c#
-// Use the Assert class to test conditions
 // Create database
 string path = Application.persistentDataPath + "/" + "My_Test_Database";
 string connection = "URI=file:" + path;
