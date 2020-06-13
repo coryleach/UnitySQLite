@@ -1,12 +1,15 @@
 {
   "name": "com.gameframe.sqlite",
   "displayName": "Gameframe.SQLite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SQLite Package",
   "keywords": [],
   "author": {
     "name": "Cory Leach",
     "email": "cory.leach@gmail.com",
-    "url": "https://github.com/coryleach"
-  }
+    "url": "https://github.com/coryleach",
+    "github": "coryleach",
+    "twitter": "coryleach"
+  },
+  "repositoryName": "UnitySQLite"
 }
