@@ -3,6 +3,7 @@
 <!-- BADGE-START -->
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c2a754590edd4f7b92d1252f83708b05)](https://www.codacy.com/manual/coryleach/UnitySQLite?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=coryleach/UnitySQLite&amp;utm_campaign=Badge_Grade)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/coryleach/UnitySQLite?include_prereleases)
+[![openupm](https://img.shields.io/npm/v/com.gameframe.sceneswitcher?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.gameframe.sceneswitcher/)
 ![GitHub](https://img.shields.io/github/license/coryleach/UnitySQLite)
 
 [![twitter](https://img.shields.io/twitter/follow/coryleach.svg?style=social)](https://twitter.com/coryleach)
